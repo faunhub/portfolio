@@ -12,6 +12,9 @@ h1 {
     border: 2px solid rgb(211, 211, 162);
     border-radius: 20px;
 }
+.icon img:hover {
+    width: 200px;
+}
 .code, .graphics, .sketches{
     display: flex;
     flex-wrap: wrap;
