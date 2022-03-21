@@ -21,8 +21,10 @@ a:visited {
     width: 150px;
     border: 2px solid rgb(211, 211, 162);
     border-radius: 20px;
+    box-shadow: 0 8px 8px rgba(24, 111, 0,0.5);
 }
 .icon img:hover {
+    width:170px;
     opacity: 70%;
 }
 .code, .graphics, .sketches{
